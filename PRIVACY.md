@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Privacy Policy for Pattern Forge
 
 **Last Updated:** October 23, 2025
@@ -10,13 +9,11 @@ This Privacy Policy describes how **HeadInTheClouds** ("we", "us", or "our") col
 **Last Updated: October 23, 2025**
 
 This Privacy Policy describes how **HeadInTheClouds** ("we," "us," or "the Company") collects, uses, and discloses your personal information in connection with the mobile application **Pattern Forge** ("the Application") available on the Google Play Store.
->>>>>>> 3e834e53c33ee74aa54791f9d6f1559282e653cd
 
 ---
 
 ## 1. Data Controller
 
-<<<<<<< HEAD
 The data controller for your personal information is:
 
 *   **Entity:** HeadInTheClouds
@@ -198,4 +195,3 @@ To exercise any of these rights, please contact us at: **v4mpir0ck@gmail.com**.
 We do not knowingly collect personally identifiable information from children under 13.
 
 If you are a parent or guardian and you are aware that your child
->>>>>>> 3e834e53c33ee74aa54791f9d6f1559282e653cd
