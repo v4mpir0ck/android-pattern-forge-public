@@ -1,98 +1,98 @@
-# Política de Privacidad de Pattern Forge
+# Privacy Policy for Pattern Forge
 
-**Última Actualización:** 23 de Octubre de 2025
+**Last Updated:** October 23, 2025
 
-Esta Política de Privacidad describe cómo **HeadInTheClouds** ("nosotros", "nuestro" o "la Compañía") recopila, utiliza y divulga su información personal en relación con la aplicación móvil **Pattern Forge** ("la Aplicación") disponible en Google Play Store.
+This Privacy Policy describes how **HeadInTheClouds** ("we", "us", or "our") collects, uses, and discloses your personal information in connection with the **Pattern Forge** mobile application ("the Application") available on the Google Play Store.
 
 ---
 
-## 1. Responsable del Tratamiento
+## 1. Data Controller
 
-El responsable del tratamiento de sus datos personales es:
+The data controller for your personal information is:
 
-* **Entidad:** HeadInTheClouds
-* **Correo Electrónico de Contacto para la Privacidad:** v4mpir0ck@gmail.com
+*   **Entity:** HeadInTheClouds
+*   **Privacy Contact Email:** v4mpir0ck@gmail.com
 
-## 2. Información que Recopilamos
+## 2. Information We Collect
 
-Solo recopilamos la información estrictamente necesaria para proporcionarle el servicio de la Aplicación **Pattern Forge**.
+We only collect the information strictly necessary to provide you with the Application's services.
 
-### A. Información Recopilada Directamente por el Usuario
+### A. Information You Provide Directly
 
-Recopilamos la siguiente información personal cuando se registra en la Aplicación o utiliza ciertas funciones:
+We collect the following personal information when you register for the Application or use certain features:
 
-* **Identificadores Personales:**
-    * **Nombre o Apodo:** Utilizado para identificar su cuenta dentro de la Aplicación.
-    * **Dirección de Correo Electrónico:** Utilizado para la gestión de su cuenta, recuperación de contraseña, notificaciones esenciales del servicio y comunicación sobre privacidad/soporte.
+*   **Personal Identifiers:**
+    *   **Name or Nickname:** Used to identify your account within the Application.
+    *   **Email Address:** Used for account management, password recovery, essential service notifications, and privacy/support communications.
 
-### B. Contenido Generado por el Usuario
+### B. User-Generated Content
 
-* **Patrones e Imágenes Generadas:** Si utiliza las funciones de la Aplicación para generar patrones o imágenes mediante Inteligencia Artificial y elige guardar o compartir dicho contenido, estos datos se recopilan y se asocian a su cuenta.
-* **Imágenes/Medios del Dispositivo:** La Aplicación accederá a su galería de imágenes **solo** si usted lo autoriza explícitamente para subir una imagen como *input* para la generación de un patrón. Esta información solo se procesa temporalmente para la generación del patrón y no se almacena, a menos que usted decida explícitamente guardar el resultado en la Aplicación.
+*   **Generated Patterns and Images:** If you use the Application's features to generate patterns or images using Artificial Intelligence and choose to save or share such content, this data is collected and associated with your account.
+*   **Device Images/Media:** The Application will access your image gallery **only** if you explicitly authorize it to upload an image as input for pattern generation. This information is processed only temporarily for the generation and is not stored unless you explicitly decide to save the result in the Application.
 
-### C. Datos de Transacciones (Compras)
+### C. Transaction Data (Purchases)
 
-* **Historial de Compras de Créditos:** La Aplicación realiza un seguimiento de su saldo de créditos internos y del historial de compras de créditos.
-* **Nota Importante:** Las transacciones de pago se procesan directamente a través del sistema de facturación de Google Play Store. **HeadInTheClouds no recopila ni almacena información de tarjetas de crédito o débito ni detalles financieros.** Solo recibimos una confirmación de la transacción de Google.
+*   **Credit Purchase History:** The Application tracks your internal credit balance and credit purchase history.
+*   **Important Note:** Payment transactions are processed directly through the Google Play Store's billing system. **HeadInTheClouds does not collect or store any credit/debit card information or financial details.** We only receive a transaction confirmation from Google.
 
-### D. Información de Uso y Análisis
+### D. Usage and Analytics Information
 
-Utilizamos herramientas de análisis (como Firebase Analytics) para recopilar datos sobre cómo se utiliza la Aplicación, lo que incluye:
+We use analytics tools (such as Firebase Analytics) to collect data on how the Application is used, including:
 
-* **Información del Dispositivo:** Tipo de dispositivo, modelo, sistema operativo, identificadores únicos de dispositivo y la versión de la Aplicación.
-* **Datos de Uso:** Registros de la actividad en la Aplicación, interacciones con las funciones de IA, duración de la sesión y datos de *crash* para la corrección de errores.
+*   **Device Information:** Device type, model, operating system, unique device identifiers, and the Application version.
+*   **Usage Data:** Logs of in-app activity, interactions with AI features, session duration, and crash data for bug fixing.
 
-## 3. Fines del Tratamiento y Base Legal
+## 3. How We Use Your Information and Legal Basis
 
-Utilizamos la información recopilada para los siguientes propósitos y bajo las siguientes bases legales (de conformidad con el GDPR y leyes similares):
+We use the collected information for the following purposes and under the following legal bases (in accordance with GDPR and similar laws):
 
-| Finalidad del Tratamiento | Datos Utilizados | Base Legal (GDPR) |
+| Purpose of Processing | Data Used | Legal Basis (GDPR) |
 | :--- | :--- | :--- |
-| **Provisión del Servicio y Mantenimiento de la Cuenta** | Nombre/Apodo, Correo Electrónico, Datos de Uso. | Ejecución de un Contrato. |
-| **Generación de Patrones y Almacenamiento** | Contenido Generado por el Usuario (Patrones/Imágenes). | Ejecución de un Contrato. |
-| **Procesamiento de Compras y Créditos** | Historial de Compras. | Ejecución de un Contrato. |
-| **Seguridad, Corrección de Errores y Mejora** | Datos de Uso, Información del Dispositivo. | Interés Legítimo. |
-| **Cumplimiento Legal** | Todos los datos recopilados. | Obligación Legal. |
+| **Service Provision and Account Maintenance** | Name/Nickname, Email Address, Usage Data. | Performance of a Contract. |
+| **Pattern Generation and Storage** | User-Generated Content (Patterns/Images). | Performance of a Contract. |
+| **Processing Purchases and Credits** | Purchase History. | Performance of a Contract. |
+| **Security, Bug Fixing, and Improvement** | Usage Data, Device Information. | Legitimate Interest. |
+| **Legal Compliance** | All collected data. | Legal Obligation. |
 
-## 4. Almacenamiento, Seguridad y Proveedores
+## 4. Data Storage, Security, and Providers
 
-* **Almacenamiento de Datos:** Sus datos personales y el contenido generado se almacenan en la infraestructura segura proporcionada por **Supabase**. Hemos implementado medidas de seguridad técnicas y organizativas rigurosas para proteger sus datos.
-* **Proveedores de Servicios Clave:**
-    * **Supabase:** Alojamiento seguro de la base de datos y gestión de usuarios.
-    * **Google Play/Firebase:** Procesamiento de pagos (Google Play) y análisis de uso/rendimiento (Firebase).
-* **Transferencias Internacionales:** Los datos se almacenan en servidores que pueden estar ubicados fuera de su país de residencia (como los Estados Unidos). Al utilizar la Aplicación, usted comprende que su información puede ser transferida y procesada en estas ubicaciones.
+*   **Data Storage:** Your personal data and generated content are stored on secure infrastructure provided by **Supabase**. We have implemented rigorous technical and organizational security measures to protect your data.
+*   **Key Service Providers:**
+    *   **Supabase:** Secure database hosting and user management.
+    *   **Google Play/Firebase:** Payment processing (Google Play) and usage/performance analytics (Firebase).
+*   **International Transfers:** Your data is stored on servers that may be located outside your country of residence (such as the United States). By using the Application, you understand that your information may be transferred to and processed in these locations.
 
-## 5. Retención de Datos
+## 5. Data Retention
 
-Retendremos sus datos personales **durante el tiempo que su cuenta permanezca activa** o sea necesario para proporcionarle los servicios.
+We will retain your personal data **for as long as your account remains active** or as necessary to provide you with the services.
 
-Si su cuenta permanece inactiva (sin inicios de sesión ni uso de funciones principales) **durante un período de 1 año**, eliminaremos de forma segura su cuenta y los datos asociados a ella (incluidos su correo, apodo y los patrones almacenados).
+If your account remains inactive (no logins or use of core features) **for a period of 1 year**, we will securely delete your account and its associated data (including your email, nickname, and stored patterns).
 
-## 6. Sus Derechos de Privacidad (GDPR y CCPA)
+## 6. Your Privacy Rights (GDPR & CCPA)
 
-Dependiendo de su jurisdicción (especialmente si es residente de la UE/EEE o California), usted puede tener los siguientes derechos con respecto a sus datos personales:
+Depending on your jurisdiction (especially if you are a resident of the EU/EEA or California), you may have the following rights regarding your personal data:
 
-* **Derecho de Acceso:** A solicitar copias de los datos personales que tenemos sobre usted.
-* **Derecho de Rectificación:** A solicitar la corrección de información inexacta o incompleta.
-* **Derecho de Supresión ("Derecho al Olvido"):** A solicitar la eliminación de sus datos personales.
-* **Derecho a la Oposición y Restricción del Tratamiento:** A oponerse a que procesemos sus datos.
-* **Derecho a la Portabilidad de Datos:** A solicitar la transferencia de sus datos en un formato legible por máquina.
+*   **Right of Access:** To request copies of the personal data we hold about you.
+*   **Right to Rectification:** To request the correction of inaccurate or incomplete information.
+*   **Right to Erasure ("Right to be Forgotten"):** To request the deletion of your personal data.
+*   **Right to Object and Restrict Processing:** To object to our processing of your data.
+*   **Right to Data Portability:** To request the transfer of your data in a machine-readable format.
 
-Para ejercer cualquiera de estos derechos, contáctenos en: **v4mpir0ck@gmail.com**.
+To exercise any of these rights, please contact us at: **v4mpir0ck@gmail.com**.
 
-## 7. Privacidad de los Niños (Política de Google Play)
+## 7. Children's Privacy (Google Play Policy)
 
-* **Pattern Forge no está dirigido a niños menores de 13 años**.
-* No recopilamos conscientemente información de identificación personal de niños menores de 13 años.
-* Si usted es padre o tutor y sabe que su hijo nos ha proporcionado datos personales, por favor notifíquenos para que podamos eliminar esa información de nuestros servidores.
+*   **Pattern Forge is not intended for children under the age of 13.**
+*   We do not knowingly collect personally identifiable information from children under 13.
+*   If you are a parent or guardian and you are aware that your child has provided us with personal data, please contact us so that we can take steps to remove that information from our servers.
 
-## 8. Cambios en esta Política de Privacidad
+## 8. Changes to This Privacy Policy
 
-Podemos actualizar nuestra Política de Privacidad de vez en cuando. Le notificaremos cualquier cambio publicando la nueva Política de Privacidad en esta página y actualizando la "Última Actualización" en la parte superior. Le recomendamos revisar esta Política de Privacidad periódicamente.
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date at the top. You are advised to review this Privacy Policy periodically for any changes.
 
-## 9. Contacto
+## 9. Contact Us
 
-Si tiene alguna pregunta o inquietud sobre esta Política de Privacidad, contáctenos en:
+If you have any questions or concerns about this Privacy Policy, please contact us at:
 
 **HeadInTheClouds**
-**Correo Electrónico:** v4mpir0ck@gmail.com
+**Email:** v4mpir0ck@gmail.com

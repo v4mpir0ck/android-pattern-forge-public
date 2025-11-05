@@ -2,8 +2,17 @@
 
 Welcome to the official space for Pattern Forge, the revolutionary Android application that puts the power of professional-grade artificial intelligence in your hands. Create, transform, and share stunning, unique patterns with just a few taps.
 
-<!-- It's highly recommended to add a high-quality GIF here showing the app in action! -->
-<!-- <img src="URL_TO_YOUR_APP_DEMO.gif" alt="Pattern Forge Demo" width="300"/> -->
+![Pattern Forge Demo](images/demo1.gif)
+
+## Key Screens
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="images/capturav4_1.png" width="250"> | <img src="images/capturav4_2.png" width="250"> | <img src="images/capturav4_3.png" width="250"> |
+| *Community Gallery* | *Generate Screen* | *Pattern Detail View* |
+| <img src="images/capturav4_4.png" width="250"> | <img src="images/capturav4_5.png" width="250"> | <img src="images/capturav4_6.png" width="250"> |
+| *Profile & In-App Purchases* | *Login Screen* | *Generated Result* |
+
 
 ## What is Pattern Forge?
 
