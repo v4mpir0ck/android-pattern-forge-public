@@ -3,13 +3,11 @@
 Welcome to the official space for Pattern Forge, the revolutionary Android application that puts the power of professional-grade artificial intelligence in your hands. Create, transform, and share stunning, unique patterns with just a few taps.
 
 <p align="center">
-  <img src="images/demo1.gif" height="450">
-</p>
-<p align="center">
-  <img src="images/demo2.gif" height="450">
-</p>
-<p align="center">
-  <img src="images/demo3.gif" height="450">
+  <img src="images/demo1.gif" height="400">
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/demo2.gif" height="400">
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/demo3.gif" height="400">
 </p>
 
 ## Key Screens
