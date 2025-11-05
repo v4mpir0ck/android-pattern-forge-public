@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pattern Forge - AI Pattern Generator</title>
+    <link rel="icon" type="image/png" href="images/v3_coolv3.png">
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -25,8 +26,7 @@
             margin-bottom: 0.5em;
         }
         .logo {
-            width: 80px;
-            height: 80px;
+            height: 80px; /* Set height only to maintain aspect ratio */
         }
         h1 {
             font-size: 3em;
@@ -38,7 +38,7 @@
             font-size: 1.3em;
             color: #b0b0b0;
             max-width: 600px;
-            margin: 0 auto 2em auto;
+            margin: 1em auto 2em auto;
         }
         .google-play-badge {
             display: inline-block;
@@ -90,23 +90,33 @@
         .screenshot:hover {
             transform: scale(1.05);
         }
-        .image-container {
-            margin: 30px 0;
+        .tech-description {
+             max-width: 700px;
+             margin: 30px auto;
+             padding: 20px;
+             text-align: left;
+             color: #b0b0b0;
+             line-height: 1.7;
+             background-color: #1a1a1a;
+             border-radius: 8px;
+             border: 1px solid #333;
         }
-        .image-container img {
-            max-width: 100%;
-            border: 1px solid #333;
-            border-radius: 8px;
+         .tech-description ul {
+            list-style: none;
+            padding-left: 0;
         }
-        .caption {
-            font-size: 0.9em;
-            color: #888;
-            margin-top: 10px;
+        .tech-description li {
+            margin-bottom: 15px;
+        }
+        .tech-description strong {
+            color: #009688; /* Teal accent */
         }
         .footer {
-            margin-top: 60px;
-            padding-top: 20px;
+            margin-top: 80px;
+            padding-top: 40px;
             border-top: 1px solid #333;
+        }
+        .footer p {
             font-size: 0.9em;
         }
         .footer a {
@@ -126,11 +136,16 @@
             <h1>Pattern Forge</h1>
         </div>
         <p class="subtitle">Your personal AI design studio. Create stunning <strong>wallpapers</strong> and unique patterns with just a few taps.</p>
-        
-        <a href="https://play.google.com/apps/testing/com.pattern.forge" class="google-play-badge" target="_blank">
-            <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"/>
-        </a>
 
+        <div class="tech-description">
+            <p>Our app stands on the shoulders of giants. We've engineered a robust backend that leverages multiple state-of-the-art AI models to deliver a superior experience:</p>
+            <ul>
+                <li><strong>Text-to-Image:</strong> Powered by OpenAI's <strong>DALL-E 3</strong> for unparalleled creativity and prompt understanding.</li>
+                <li><strong>Image-to-Image:</strong> Utilizing powerful Stable Diffusion models via <strong>Clipdrop</strong> for versatile image transformations.</li>
+                <li><strong>Intelligent Metadata:</strong> We use <strong>GPT-4o-mini</strong> to automatically suggest creative names, categories, and tags for your patterns, making organization a breeze.</li>
+            </ul>
+        </div>
+        
         <div class="section">
             <h2 class="section-title">Core Features</h2>
             <div class="features">
@@ -161,15 +176,10 @@
             </div>
         </div>
 
-        <div class="section">
-            <h2 class="section-title">Core Technology</h2>
-            <div class="image-container">
-                <img src="images/grafico_de_funciones_google_pattern_forge.png" alt="Data Usage Flowchart">
-                <p class="caption">Visual summary of the data processing for our core features.</p>
-            </div>
-        </div>
-
         <div class="footer">
+            <a href="https://play.google.com/apps/testing/com.pattern.forge" class="google-play-badge" target="_blank">
+                <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"/>
+            </a>
             <p>
                 <a href="privacy.html">Privacy Policy</a> &bull;
                 <a href="account_deletion.html">Manage Subscription</a>
