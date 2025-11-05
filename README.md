@@ -5,6 +5,12 @@ Welcome to the official space for Pattern Forge, the revolutionary Android appli
 <p align="center">
   <img src="images/demo1.gif" height="450">
 </p>
+<p align="center">
+  <img src="images/demo2.gif" height="450">
+</p>
+<p align="center">
+  <img src="images/demo3.gif" height="450">
+</p>
 
 ## Key Screens
 
