@@ -44,7 +44,7 @@ Pattern Forge stands on the shoulders of giants. We've engineered our app to lev
 
 We are committed to protecting your privacy and being transparent about how we handle your data. Our application is designed to be secure and respectful of your information.
 
-For a detailed explanation of what data we collect and how we use it, please review our **[Privacy Policy](https://github.com/v4mpir0ck/android-pattern-forge-public/blob/main/PRIVACY.md)**. You can also find information regarding our account deletion process **[here](https://github.com/v4mpir0ck/android-pattern-forge-public/blob/main/ACCOUNT_DELETION.md)**.
+For a detailed explanation of what data we collect and how we use it, please review our **[Privacy Policy](https://pattern-forge.com/privacy.html)**. You can also find information regarding our account deletion process **[here](https://pattern-forge.com/account_deletion.html)**.
 
 ## 💬 Feedback & Contact
 
