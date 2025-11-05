@@ -8,9 +8,9 @@ Welcome to the official space for Pattern Forge, the revolutionary Android appli
 | | | |
 | :---: | :---: | :---: |
 | <img src="images/capturav4_1.png" width="200"> | <img src="images/demo4.gif" width="200"> | <img src="images/capturav4_3.png" width="200"> |
-| *Community Gallery* | *Generation Demo* | *Pattern Detail View* |
+| *Launch Screen* | *Generation Demo* | *Gallery* |
 | <img src="images/capturav4_4.png" width="200"> | <img src="images/capturav4_5.png" width="200"> | <img src="images/capturav4_6.png" width="200"> |
-| *Profile & In-App Purchases* | *Login Screen* | *Generated Result* |
+| *Pattern Detail View* | *Login Screen* | *Pattern Generation View* |
 
 
 ## What is Pattern Forge?
