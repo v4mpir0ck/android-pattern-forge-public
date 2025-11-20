@@ -5,12 +5,10 @@ Welcome to the official space for Pattern Forge, the revolutionary Android appli
 
 ## Key Screens
 
-| | | |
-| :---: | :---: | :---: |
-| <img src="images/capturav4_1.png" width="200"> | <img src="images/demo4.gif" width="200"> | <img src="images/capturav4_3.png" width="200"> |
-| *Launch Screen* | *Generation Demo* | *Gallery* |
-| <img src="images/capturav4_4.png" width="200"> | <img src="images/capturav4_5.png" width="200"> | <img src="images/capturav4_6.png" width="200"> |
-| *Pattern Detail View* | *Login Screen* | *Pattern Generation View* |
+|                                             |                                            |                                              |
+| :-----------------------------------------: |:------------------------------------------:| :------------------------------------------: |
+| <img src="images/Screenshot_new_tut1.png" width="200"> |  <img src="images/demo4.gif" width="200">  | <img src="images/Screenshot_gallery.png" width="200"> |
+| <img src="images/Screenshot_new_tut4.png" width="200"> | <img src="images/Screenshot_profile1.png" width="200"> | <img src="images/Screenshot_generate.png" width="200"> |
 
 
 ## What is Pattern Forge?
