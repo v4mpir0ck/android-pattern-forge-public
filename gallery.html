@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pattern Forge - Image Gallery</title>
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 40px 20px;
+            background-color: #000000; /* Pure black */
+            color: #e0e0e0;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            font-size: 3em;
+            font-weight: bold;
+            color: #ffffff;
+            margin-bottom: 40px;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+        .screenshot {
+            width: 100%;
+            max-width: 300px;
+            border-radius: 16px;
+            border: 1px solid #333;
+            transition: transform 0.2s ease;
+        }
+        .screenshot:hover {
+            transform: scale(1.05);
+        }
+        .footer {
+            margin-top: 80px;
+            padding-top: 40px;
+            border-top: 1px solid #333;
+        }
+        .footer a {
+            color: #009688;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Image Gallery</h1>
+        <div class="gallery">
+            <img src="images/new/Screenshot_20251114_201801_Pattern Forge.jpg" class="screenshot">
+            <img src="images/new/Screenshot_20251117_114147_Pattern Forge.jpg" class="screenshot">
+            <img src="images/new/Screenshot_20251117_114152_Pattern Forge.jpg" class="screenshot">
+            <img src="images/new/Screenshot_20251117_114158_Pattern Forge.jpg" class="screenshot">
+            <img src="images/new/Screenshot_20251117_114205_Pattern Forge.jpg" class="screenshot">
+            <img src="images/new/Screenshot_20251117_114215_Pattern Forge.jpg" class="screenshot">
+            <img src="images/new/Screenshot_20251117_114222_Pattern Forge.jpg" class="screenshot">
+            <img src="images/new/Screenshot_20251117_114229_Pattern Forge.jpg" class="screenshot">
+        </div>
+    </div>
+    <div class="footer">
+        <a href="index.html">Back to Home</a>
+    </div>
+</body>
+</html>
