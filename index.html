@@ -92,6 +92,9 @@
             border: 1px solid #333;
             border-radius: 8px;
         }
+        .small-image {
+            max-width: 50%;
+        }
         .caption {
             font-size: 0.9em;
             color: #888;
@@ -110,6 +113,66 @@
             text-decoration: none;
             margin: 0 10px;
         }
+
+        /* Popup Banner Styles */
+        .popup-banner {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background-color: #333;
+            color: #fff;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+            z-index: 1000;
+            width: 90%;
+            max-width: 320px;
+            opacity: 0;
+            transform: translateY(-20px);
+            visibility: hidden;
+            transition: opacity 0.4s ease, transform 0.4s ease, visibility 0.4s;
+        }
+        .popup-banner.show {
+            opacity: 1;
+            transform: translateY(0);
+            visibility: visible;
+        }
+        .popup-content {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        .popup-text {
+            flex-grow: 1;
+            text-align: left;
+        }
+        .popup-text h3 {
+            margin: 0 0 5px 0;
+            font-size: 1.1em;
+        }
+        .popup-text p {
+            margin: 0 0 10px 0;
+            font-size: 0.9em;
+            color: #ccc;
+        }
+        .close-btn {
+            position: absolute;
+            top: 5px;
+            right: 10px;
+            background: none;
+            border: none;
+            color: #aaa;
+            font-size: 24px;
+            cursor: pointer;
+            line-height: 1;
+        }
+        .close-btn:hover {
+            color: #fff;
+        }
+        .popup-google-badge img {
+            width: 110px;
+        }
+
     </style>
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17600073209"></script>
@@ -122,6 +185,20 @@
 </script>
 </head>
 <body>
+    <div id="popup-banner" class="popup-banner">
+        <button id="close-banner" class="close-btn">&times;</button>
+        <div class="popup-content">
+            <img src="images/favicon.png" alt="App Icon" style="height: 40px; border-radius: 8px;">
+            <div class="popup-text">
+                <h3>Download Pattern Forge</h3>
+                <p>Get the official app!</p>
+                <a href="https://play.google.com/apps/testing/com.pattern.forge" class="popup-google-badge" target="_blank">
+                    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/>
+                </a>
+            </div>
+        </div>
+    </div>
+
     <div class="container">
         <div class="header">
             <img src="images/v3_coolv3.png" alt="Pattern Forge Logo" class="logo">
@@ -130,7 +207,10 @@
         <p class="subtitle">Your personal AI art studio. Create stunning <strong>4K wallpapers</strong> and unique designs with the world's most advanced AI models.</p>
 
         <div class="image-container">
-            <img src="images/grafico_de_funciones_google_pattern_forge.png" alt="Data Usage Flowchart">
+            <img src="images/1763927235614.jpg" alt="Generated Image">
+        </div>
+        <div class="image-container">
+            <img src="images/grafico_de_funciones_google_pattern_forge.png" alt="Data Usage Flowchart" class="small-image">
         </div>
 
         <div class="section">
@@ -202,5 +282,32 @@
             </p>
         </div>
     </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const banner = document.getElementById('popup-banner');
+            const closeBtn = document.getElementById('close-banner');
+            let autoHideTimeout;
+
+            const showBanner = () => {
+                banner.classList.add('show');
+                autoHideTimeout = setTimeout(() => {
+                    hideBanner();
+                }, 20000); // 20 seconds
+            };
+
+            const hideBanner = () => {
+                banner.classList.remove('show');
+                if (autoHideTimeout) {
+                    clearTimeout(autoHideTimeout);
+                }
+            };
+
+            // Show banner after a short delay
+            setTimeout(showBanner, 1500);
+
+            // Close banner when the close button is clicked
+            closeBtn.addEventListener('click', hideBanner);
+        });
+    </script>
 </body>
 </html>
