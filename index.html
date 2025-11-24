@@ -121,12 +121,12 @@
             right: 20px;
             background-color: #333;
             color: #fff;
-            padding: 15px;
+            padding: 12px;
             border-radius: 10px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.4);
             z-index: 1000;
-            width: 90%;
-            max-width: 320px;
+            width: auto;
+            max-width: 300px;
             opacity: 0;
             transform: translateY(-20px);
             visibility: hidden;
@@ -140,29 +140,29 @@
         .popup-content {
             display: flex;
             align-items: center;
-            gap: 15px;
+            gap: 12px;
         }
         .popup-text {
             flex-grow: 1;
             text-align: left;
         }
         .popup-text h3 {
-            margin: 0 0 5px 0;
-            font-size: 1.1em;
+            margin: 0 0 4px 0;
+            font-size: 1em;
         }
         .popup-text p {
-            margin: 0 0 10px 0;
-            font-size: 0.9em;
+            margin: 0 0 8px 0;
+            font-size: 0.85em;
             color: #ccc;
         }
         .close-btn {
             position: absolute;
-            top: 5px;
-            right: 10px;
+            top: 2px;
+            right: 8px;
             background: none;
             border: none;
             color: #aaa;
-            font-size: 24px;
+            font-size: 22px;
             cursor: pointer;
             line-height: 1;
         }
@@ -170,7 +170,16 @@
             color: #fff;
         }
         .popup-google-badge img {
-            width: 110px;
+            width: 100px;
+        }
+
+        /* Responsive adjustments for mobile */
+        @media (max-width: 480px) {
+            .popup-banner {
+                right: 10px;
+                top: 10px;
+                max-width: 250px;
+            }
         }
 
     </style>
@@ -188,7 +197,7 @@
     <div id="popup-banner" class="popup-banner">
         <button id="close-banner" class="close-btn">&times;</button>
         <div class="popup-content">
-            <img src="images/favicon.png" alt="App Icon" style="height: 40px; border-radius: 8px;">
+            <img src="images/favicon.png" alt="App Icon" style="height: 36px; border-radius: 8px;">
             <div class="popup-text">
                 <h3>Download Pattern Forge</h3>
                 <p>Get the official app!</p>
